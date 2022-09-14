@@ -1,4 +1,8 @@
-﻿namespace Emp4Star
+﻿using System;
+using System.IO;
+using Microsoft.Extensions.Configuration;
+
+namespace Emp4Star
 {
   static class ConfigurationManager
   {

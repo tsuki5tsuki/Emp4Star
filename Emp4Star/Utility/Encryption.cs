@@ -1,8 +1,8 @@
-﻿using Emp4Star;
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 using System.Text;
+using ConfigurationManager = Emp4Star.ConfigurationManager;
 
-namespace WebApi.Utility
+namespace Common
 {
   public class Encryption
   {

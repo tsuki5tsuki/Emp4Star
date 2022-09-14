@@ -2,7 +2,7 @@
 //https://github.com/jun112561/Discord-Stream-Bot-Backend/blob/master/Discord%20Stream%20Bot%20Backend/Utility.cs
 using System.ComponentModel;
 
-namespace WebApi.Utility
+namespace Common
 {
   public class APIResponse
   {
